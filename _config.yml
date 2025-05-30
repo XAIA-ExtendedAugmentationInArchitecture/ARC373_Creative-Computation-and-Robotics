@@ -7,13 +7,13 @@ highlighter: pygments
 # Permalinks
 permalink:        pretty
 
-title: "Embodied Computation"
-tagline: "ARC 373 - Embodied Computation"
-email: mitterberger@princeton.edu
+title: "Creative Computation and Robotics"
+tagline: "ARC 373 - Creative Computation and Robotics"
+email: eleni.alexi@princeton.edu
 description: >- # this means to ignore newlines until "baseurl:"
   This course delves into the intersection of architecture and computation, focusing on embodied design and fabrication processes. 
-baseurl: "/ARC373_Embodied-Computation/"  #the subpath of your site, e.g. /blog
-url:  https://IntuitiveRobotics-AugmentedTechnologies.github.io #https://localhost #"
+baseurl: "/ARC373_Creative-Computation-and-Robotics/"  #the subpath of your site, e.g. /blog
+url:  https://XAIA-ExtendedAugmentationInArchitecture.github.io #https://localhost #"
 github_username:  dmitterberger
 
 # Build settings
@@ -21,7 +21,7 @@ plugins:
    - jekyll-feed
 
 github:
-  repo:           https://github.com/IntuitiveRobotics-AugmentedTechnologies/ARC596_Embodied-Computation
+  repo:           https://github.com/XAIA-ExtendedAugmentationInArchitecture/ARC373_Creative-Computation-and-Robotics
 
 
 
